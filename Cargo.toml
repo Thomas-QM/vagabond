@@ -1,0 +1,12 @@
+[package]
+name = "vagabond"
+version = "0.1.0"
+authors = ["Thomas-QM <thomas@engineeringvirtue.net>"]
+edition = "2018"
+
+[dependencies]
+kankyo = "0.2.0"
+yansi = "0.5.0"
+clap = "2.33.0"
+r2d2 = "0.8.4"
+cdrs = "2.1.0"

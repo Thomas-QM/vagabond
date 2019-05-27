@@ -1,0 +1,8 @@
+yeah so
+
+a migrations table i guess
+
+keep track of the current migration
+use cfg to append new migration
+
+use .env to login
