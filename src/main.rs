@@ -194,7 +194,7 @@ fn set_current_migration(session: &VBSession, name: &str) {
 }
 
 fn main() {
-    kankyo::load().unwrap();
+    let _ = kankyo::load(); //optional .env
 
     let matches = clap_app!(vagabond =>
         (version: crate_version!())
