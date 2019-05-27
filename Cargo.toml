@@ -1,6 +1,7 @@
 [package]
 name = "vagabond"
 version = "0.1.0"
+description = "crap cassandra migrations manager"
 authors = ["Thomas-QM <thomas@engineeringvirtue.net>"]
 edition = "2018"
 
