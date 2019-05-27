@@ -182,7 +182,6 @@ fn get_current_migration(session: &VBSession) -> Option<String> {
     }
 
     None
-        // .get_body().unwrap()
 }
 
 fn del_current_migration(session: &VBSession) {
